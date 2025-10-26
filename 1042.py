@@ -1,0 +1,10 @@
+valores = list(map(int, input().split()))
+valoresOrd = sorted(valores)
+
+print(valoresOrd[0])
+print(valoresOrd[1])
+print(valoresOrd[2])
+print("")
+print(valores[0])
+print(valores[1])
+print(valores[2])
